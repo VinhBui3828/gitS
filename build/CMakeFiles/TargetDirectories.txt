@@ -1,0 +1,3 @@
+C:/Users/FPT Shop/Documents/OOP/student/build/CMakeFiles/Student.dir
+C:/Users/FPT Shop/Documents/OOP/student/build/CMakeFiles/edit_cache.dir
+C:/Users/FPT Shop/Documents/OOP/student/build/CMakeFiles/rebuild_cache.dir
